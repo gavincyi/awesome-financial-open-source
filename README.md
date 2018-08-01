@@ -17,6 +17,10 @@ Collection of financial institution open source groups
 
 ## Market Makers / Proprietary Trading
 
+[IMC Financial Markets](https://github.com/imc-trading)
+
 [Jane Street](https://github.com/janestreet)
 
 [Jump Trading](https://github.com/jumptrading)
+
+[Optiver Asia](https://github.com/optiver)
