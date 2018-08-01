@@ -7,6 +7,8 @@ Collection of financial institution open source groups
 
 [BlackRock](https://github.com/blackrock)
 
+[Blue Mountain Capital](https://github.com/BlueMountainCapital)
+
 [Man AHL](https://github.com/manahl)
 
 [Two Sigma](https://github.com/twosigma)
@@ -28,6 +30,8 @@ Collection of financial institution open source groups
 [Optiver Asia](https://github.com/optiver)
 
 [Tower Research Capital](https://github.com/tower-research)
+
+[Tsuru Capital](https://github.com/tsurucapital)
 
 ## Vendor
 
