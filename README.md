@@ -1,12 +1,6 @@
 # finance-open-source
 Collection of financial institution open source groups
 
-## Vendor
-
-[Bloomberg](https://github.com/bloomberg)
-
-[Thomson Reuters](https://github.com/thomsonreuters)
-
 ## Asset Management
 
 [AQR Capital Management](https://github.com/aqrcapital)
@@ -16,6 +10,12 @@ Collection of financial institution open source groups
 [Man AHL](https://github.com/manahl)
 
 [Two Sigma](https://github.com/twosigma)
+
+## Bank
+
+[J.P. Morgan](https://github.com/jpmorganchase)
+
+[Société Générale](https://github.com/societe-generale)
 
 ## Market Makers / Proprietary Trading
 
@@ -28,3 +28,9 @@ Collection of financial institution open source groups
 [Optiver Asia](https://github.com/optiver)
 
 [Tower Research Capital](https://github.com/tower-research)
+
+## Vendor
+
+[Bloomberg](https://github.com/bloomberg)
+
+[Thomson Reuters](https://github.com/thomsonreuters)
