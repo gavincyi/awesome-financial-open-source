@@ -11,6 +11,8 @@ Collection of financial institution open source groups
 
 [AQR Capital Management](https://github.com/aqrcapital)
 
+[BlackRock](https://github.com/blackrock)
+
 [Man AHL](https://github.com/manahl)
 
 [Two Sigma](https://github.com/twosigma)
@@ -24,3 +26,5 @@ Collection of financial institution open source groups
 [Jump Trading](https://github.com/jumptrading)
 
 [Optiver Asia](https://github.com/optiver)
+
+[Tower Research Capital](https://github.com/tower-research)
