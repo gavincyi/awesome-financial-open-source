@@ -15,6 +15,10 @@ Collection of financial institution open source groups
 
 ## Bank
 
+[Citi](https://github.com/Citi)
+
+[Credit Suisse](https://github.com/CreditSuisse)
+
 [J.P. Morgan](https://github.com/jpmorganchase)
 
 [Société Générale](https://github.com/societe-generale)
@@ -37,4 +41,10 @@ Collection of financial institution open source groups
 
 [Bloomberg](https://github.com/bloomberg)
 
+[Cinnober](https://github.com/cinnober)
+
 [Thomson Reuters](https://github.com/thomsonreuters)
+
+## Others
+
+[The Fintech Open Source Foundation](https://github.com/finos)
