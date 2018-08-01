@@ -25,6 +25,8 @@ Collection of financial institution open source groups
 
 ## Market Makers / Proprietary Trading
 
+[Belvedere Trading](https://github.com/belvedere-trading)
+
 [IMC Financial Markets](https://github.com/imc-trading)
 
 [Jane Street](https://github.com/janestreet)
