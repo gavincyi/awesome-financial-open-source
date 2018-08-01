@@ -1,4 +1,4 @@
-# finance-open-source
+# Awesome financial institution open source groups
 Collection of financial institution open source groups
 
 ## Asset Management
