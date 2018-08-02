@@ -23,9 +23,11 @@ Collection of financial institution open source groups
 
 [Credit Suisse](https://github.com/CreditSuisse)
 
-[Deutsche Bank AG] (https://github.com/deutschebank)
+[Deutsche Bank AG](https://github.com/deutschebank)
 
 [J.P. Morgan](https://github.com/jpmorganchase)
+
+[Morgan-Stanley](https://github.com/Morgan-Stanley)
 
 [Société Générale](https://github.com/societe-generale)
 
