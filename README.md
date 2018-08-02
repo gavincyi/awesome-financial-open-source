@@ -39,11 +39,13 @@ Collection of financial institution open source groups
 
 [Tsuru Capital](https://github.com/tsurucapital)
 
-## Vendor
+## Vendor / Market data provider
 
 [Bloomberg](https://github.com/bloomberg)
 
 [Cinnober](https://github.com/cinnober)
+
+[Dow Jones](https://github.com/dowjones)
 
 [Thomson Reuters](https://github.com/thomsonreuters)
 
