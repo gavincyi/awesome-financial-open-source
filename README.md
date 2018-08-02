@@ -27,7 +27,9 @@ Collection of financial institution open source groups
 
 [Deutsche Bank AG](https://github.com/deutschebank)
 
-[ING Bank)(https://github.com/ing-bank)
+[Goldman Sachs](https://github.com/goldmansachs)
+
+[ING Bank](https://github.com/ing-bank)
 
 [J.P. Morgan](https://github.com/jpmorganchase)
 
