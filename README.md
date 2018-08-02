@@ -15,9 +15,15 @@ Collection of financial institution open source groups
 
 ## Bank
 
+[ANZ Bank](https://github.com/anz-bank)
+
+[Captial One](https://github.com/capitalone)
+
 [Citi](https://github.com/Citi)
 
 [Credit Suisse](https://github.com/CreditSuisse)
+
+[Deutsche Bank AG] (https://github.com/deutschebank)
 
 [J.P. Morgan](https://github.com/jpmorganchase)
 
