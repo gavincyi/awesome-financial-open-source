@@ -9,6 +9,8 @@ Collection of financial institution open source groups
 
 [Blue Mountain Capital](https://github.com/BlueMountainCapital)
 
+[Fidelity International](https://github.com/FidelityInternational)
+
 [Man AHL](https://github.com/manahl)
 
 [Two Sigma](https://github.com/twosigma)
