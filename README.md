@@ -15,6 +15,8 @@ Collection of financial institution open source groups
 
 [Two Sigma](https://github.com/twosigma)
 
+[Winton Captial](https://github.com/wintoncode)
+
 ## Bank
 
 [ANZ Bank](https://github.com/anz-bank)
