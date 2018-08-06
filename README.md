@@ -23,6 +23,8 @@ Collection of financial institution open source groups
 
 [ANZ Bank](https://github.com/anz-bank)
 
+[Barclays](https://github.com/Barclays)
+
 [Captial One](https://github.com/capitalone)
 
 [Citi](https://github.com/Citi)
