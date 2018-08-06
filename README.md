@@ -41,9 +41,19 @@ Collection of financial institution open source groups
 
 [Société Générale](https://github.com/societe-generale)
 
+## Exchange
+
+[CME Group](https://github.com/CMEGroup)
+
+[Deutsche Börse Group](https://github.com/Deutsche-Boerse)
+
+[London Stock Exchange Group](https://github.com/lseg)
+
 ## Market Makers / Proprietary Trading
 
 [Belvedere Trading](https://github.com/belvedere-trading)
+
+[IG Group](https://github.com/IG-Group)
 
 [IMC Financial Markets](https://github.com/imc-trading)
 
