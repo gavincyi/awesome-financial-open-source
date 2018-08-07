@@ -41,6 +41,8 @@ Collection of financial institution open source groups
 
 [Morgan-Stanley](https://github.com/Morgan-Stanley)
 
+[Rabobank](https://github.com/rabobank-nederland)
+
 [Société Générale](https://github.com/societe-generale)
 
 ## Exchange
@@ -76,6 +78,8 @@ Collection of financial institution open source groups
 [Cinnober](https://github.com/cinnober)
 
 [Dow Jones](https://github.com/dowjones)
+
+[FactSet](https://github.com/factset)
 
 [Thomson Reuters](https://github.com/thomsonreuters)
 
