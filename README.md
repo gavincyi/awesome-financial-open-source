@@ -71,6 +71,8 @@ Collection of financial institution open source groups
 
 [Tsuru Capital](https://github.com/tsurucapital)
 
+[XTX Markets](https://github.com/XTXMarkets)
+
 ## Vendor / Market data provider
 
 [Bloomberg](https://github.com/bloomberg)
