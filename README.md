@@ -3,6 +3,8 @@ Collection of financial institution open source groups
 
 ## Asset Management
 
+[Athena Capital Research](https://github.com/athenacr)
+
 [AQR Capital Management](https://github.com/aqrcapital)
 
 [BlackRock](https://github.com/blackrock)
