@@ -9,6 +9,8 @@ Collection of financial institution open source groups
 
 [BlackRock](https://github.com/blackrock)
 
+[BlackStone](https://github.com/BlackstoneGroup)
+
 [Blue Mountain Capital](https://github.com/BlueMountainCapital)
 
 [Bridgewater Associates](https://github.com/Bridgewater)
@@ -52,6 +54,10 @@ Collection of financial institution open source groups
 [CME Group](https://github.com/CMEGroup)
 
 [Deutsche Börse Group](https://github.com/Deutsche-Boerse)
+
+[Euronext](https://github.com/euronext)
+
+[LMAX](https://github.com/LMAX-Exchange)
 
 [London Stock Exchange Group](https://github.com/lseg)
 
