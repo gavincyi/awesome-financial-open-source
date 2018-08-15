@@ -47,6 +47,8 @@ Collection of financial institution open source groups
 
 [Rabobank](https://github.com/rabobank-nederland)
 
+[SEB](https://github.com/sebgroup)
+
 [Société Générale](https://github.com/societe-generale)
 
 ## Exchange
