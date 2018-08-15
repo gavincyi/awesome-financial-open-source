@@ -63,6 +63,8 @@ Collection of financial institution open source groups
 
 [London Stock Exchange Group](https://github.com/lseg)
 
+[Nasdaq](https://github.com/Nasdaq)
+
 ## Market Makers / Proprietary Trading
 
 [Belvedere Trading](https://github.com/belvedere-trading)
