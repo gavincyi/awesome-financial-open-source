@@ -19,6 +19,8 @@ Collection of financial institution open source groups
 
 [Man AHL](https://github.com/manahl)
 
+[Man Group](https://github.com/man-group)
+
 [Two Sigma](https://github.com/twosigma)
 
 [Winton Captial](https://github.com/wintoncode)
