@@ -21,6 +21,8 @@ Collection of financial institution open source groups
 
 [Man Group](https://github.com/man-group)
 
+[Quadrature Capital](https://github.com/quadraturecapital)
+
 [Two Sigma](https://github.com/twosigma)
 
 [Winton Captial](https://github.com/wintoncode)
