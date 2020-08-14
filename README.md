@@ -55,6 +55,8 @@ Collection of financial institution open source groups
 
 [Société Générale](https://github.com/societe-generale)
 
+[UBS IB](https://github.com/UBS-IB)
+
 ## Exchange
 
 [CME Group](https://github.com/CMEGroup)
