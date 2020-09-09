@@ -5,6 +5,8 @@ Collection of financial institution open source groups
 
 [Athena Capital Research](https://github.com/athenacr)
 
+[Alliance-Bernstein](https://github.com/Alliance-Bernstein)
+
 [AQR Capital Management](https://github.com/aqrcapital)
 
 [BlackRock](https://github.com/blackrock)
@@ -26,6 +28,8 @@ Collection of financial institution open source groups
 [Two Sigma](https://github.com/twosigma)
 
 [Winton Captial](https://github.com/wintoncode)
+
+[WorldQuant](https://github.com/WorldQuant)
 
 ## Bank
 
