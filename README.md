@@ -105,6 +105,8 @@ Collection of financial institution open source groups
 
 [FactSet](https://github.com/factset)
 
+[Refinitiv](https://github.com/Refinitiv)
+
 [Thomson Reuters](https://github.com/thomsonreuters)
 
 ## Others
