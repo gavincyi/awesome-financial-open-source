@@ -19,6 +19,8 @@ Collection of financial institution open source groups
 
 [Fidelity International](https://github.com/FidelityInternational)
 
+[G-Research](https://github.com/G-Research)
+
 [Man AHL](https://github.com/manahl)
 
 [Man Group](https://github.com/man-group)
