@@ -81,6 +81,8 @@ Collection of financial institution open source groups
 
 [Belvedere Trading](https://github.com/belvedere-trading)
 
+[DRW](https://github.com/drwholdings)
+
 [IG Group](https://github.com/IG-Group)
 
 [IMC Financial Markets](https://github.com/imc-trading)
