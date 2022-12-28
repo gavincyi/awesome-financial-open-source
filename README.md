@@ -51,6 +51,8 @@ Collection of financial institution open source groups
 
 [Goldman Sachs](https://github.com/goldmansachs)
 
+[HSBC](https://github.com/hsbc)
+
 [ING Bank](https://github.com/ing-bank)
 
 [J.P. Morgan](https://github.com/jpmorganchase)
