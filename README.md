@@ -17,6 +17,8 @@ Collection of financial institution open source groups
 
 [Bridgewater Associates](https://github.com/Bridgewater)
 
+[Capital Fund Management (CFM)](https://github.com/CFMTech)
+
 [Fidelity International](https://github.com/FidelityInternational)
 
 [G-Research](https://github.com/G-Research)
