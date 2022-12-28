@@ -23,6 +23,8 @@ Collection of financial institution open source groups
 
 [G-Research](https://github.com/G-Research)
 
+[Marshall Wace](https://github.com/MarshallWace)
+
 [Man AHL](https://github.com/manahl)
 
 [Man Group](https://github.com/man-group)
