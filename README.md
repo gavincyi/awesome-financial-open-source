@@ -35,7 +35,7 @@ Collection of financial institution open source groups
 
 [WorldQuant](https://github.com/WorldQuant)
 
-## Bank
+## Bank / Brokerages 
 
 [ANZ Bank](https://github.com/anz-bank)
 
@@ -58,6 +58,8 @@ Collection of financial institution open source groups
 [Morgan-Stanley](https://github.com/Morgan-Stanley)
 
 [Rabobank](https://github.com/rabobank-nederland)
+
+[Saxo Bank](https://github.com/SaxoBank)
 
 [SEB](https://github.com/sebgroup)
 
