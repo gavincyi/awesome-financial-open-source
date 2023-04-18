@@ -19,6 +19,8 @@ Collection of financial institution open source groups
 
 [Capital Fund Management (CFM)](https://github.com/CFMTech)
 
+[D. E. Shaw](https://github.com/deshaw)
+
 [Fidelity International](https://github.com/FidelityInternational)
 
 [G-Research](https://github.com/G-Research)
