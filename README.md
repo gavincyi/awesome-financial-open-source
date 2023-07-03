@@ -121,6 +121,8 @@ Collection of financial institution open source groups
 
 [Refinitiv](https://github.com/Refinitiv)
 
+[Snowflake](https://github.com/snowflakedb)
+
 [Thomson Reuters](https://github.com/thomsonreuters)
 
 ## Others
