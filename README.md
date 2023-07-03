@@ -127,4 +127,6 @@ Collection of financial institution open source groups
 
 ## Others
 
+[FIX Trading Community](https://github.com/FIXTradingCommunity)
+
 [The Fintech Open Source Foundation](https://github.com/finos)
