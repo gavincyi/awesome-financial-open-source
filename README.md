@@ -33,6 +33,8 @@ Collection of financial institution open source groups
 
 [Quadrature Capital](https://github.com/quadraturecapital)
 
+[Schroders](https://github.com/Schroders)
+
 [Two Sigma](https://github.com/twosigma)
 
 [Winton Captial](https://github.com/wintoncode)
