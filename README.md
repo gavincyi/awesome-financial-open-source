@@ -33,6 +33,8 @@ Collection of financial institution open source groups
 
 [Man Group](https://github.com/man-group)
 
+[PIMCO](https://github.com/PIMCO)
+
 [Quadrature Capital](https://github.com/quadraturecapital)
 
 [Schroders](https://github.com/Schroders)
