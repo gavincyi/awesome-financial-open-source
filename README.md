@@ -109,6 +109,8 @@ Collection of financial institution open source groups
 
 [Optiver Asia](https://github.com/optiver)
 
+[PEAK6 Investments L.P.](https://github.com/peak6)
+
 [Tower Research Capital](https://github.com/tower-research)
 
 [Tsuru Capital](https://github.com/tsurucapital)
