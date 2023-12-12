@@ -7,6 +7,8 @@ Collection of financial institution open source groups
 
 [Alliance-Bernstein](https://github.com/Alliance-Bernstein)
 
+[Allianz](https://github.com/allianz)
+
 [AQR Capital Management](https://github.com/aqrcapital)
 
 [BlackRock](https://github.com/blackrock)
