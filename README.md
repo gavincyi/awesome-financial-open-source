@@ -39,6 +39,8 @@ Collection of financial institution open source groups
 
 [Quadrature Capital](https://github.com/quadraturecapital)
 
+[Qube Research & Technologies](https://github.com/qube-rt)
+
 [Schroders](https://github.com/Schroders)
 
 [Two Sigma](https://github.com/twosigma)
