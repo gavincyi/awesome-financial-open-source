@@ -136,6 +136,7 @@ Collection of financial institution open source groups
 [Snowflake](https://github.com/snowflakedb)
 
 [Thomson Reuters](https://github.com/thomsonreuters)
+* [Level CFO](https://github.com/levelcfo) ([Website](https://levelcfo.com/benchmarks/)) - Open-source SMB financial benchmarks, LevelBench-100 agentic accounting benchmark, and US Trade Economy Index.
 
 ## Others
 
